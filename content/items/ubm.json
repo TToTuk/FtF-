@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "ublastm",
+	"description": "хм",
+	"hardness": 1,
+	"cost": 1,
+	"color": "#FA8072",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}
