@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Улучшенный завод взрывчатой смеси",
+"description": "пип",
+	"outputItem": {"item": "blast-compound", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :100,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.4,
+		"items": {
+			"items": [
+				{ "item": "pyratite", "amount": 1 },
+{ "item": "spore-pod", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+  { "item": "ubm", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "ubf"
+"health": 120.0,
+}

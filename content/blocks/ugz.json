@@ -1,0 +1,27 @@
+{
+	"type": "GenericSmelter",
+	"name": "Улучшенный пресс графита",
+"description" : "дибадибидябидёдё дибадибидё",
+	"outputItem": {"item": "graphite", "amount": 3},
+"health" : 120,
+	"size": 2,
+	"hasPower": false,
+	"hasItems": true,
+	"craftTime": 30,
+    "itemCapacity" :20,
+	"consumes": {
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+  { "item": "ugm", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "ugf"
+"health": 120.0,
+}

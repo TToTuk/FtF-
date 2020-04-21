@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "Улучшенный завод пиротита",
+"description": "Ну что тут сказать?"
+	"outputItem": {"item": "pyratite", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :100,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.2,
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 1 },
+{ "item": "lead", "amount": 2 },
+{ "item": "sand", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+  { "item": "upm", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "upf"
+"health": 120.0,
+}

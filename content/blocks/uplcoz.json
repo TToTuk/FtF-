@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Улучшенный компрессор пластания",
+	"description": "Хаха нет",
+	"outputItem": {"item": "plastanium", "amount": 2},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :100,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 30.0,
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 1 },
+{ "item": "titanium", "amount": 2 }
+			]
+		}
+	},
+	"requirements": [
+  { "item": "uplcom", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "uplcof"
+"health": 120.0,
+}

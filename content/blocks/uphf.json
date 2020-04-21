@@ -1,0 +1,33 @@
+{
+	"type": "GenericSmelter",
+	"name": "Завод завода фазовой ткани",
+	"description": "хмм",
+	"outputItem": {"item": "uphm", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :1000,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 10.0,
+		"items": {
+			"items": [
+				{ "item": "lead", "amount": 120 },
+{ "item": "thorium", "amount": 75 },
+{ "item": "silicon", "amount": 130 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "silicon", "amount": 100 },
+  { "item": "surge-alloy", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "phase-weaver"
+"health": 60.0,
+}

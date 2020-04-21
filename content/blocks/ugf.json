@@ -1,0 +1,32 @@
+{
+	"type": "GenericSmelter",
+	"name": "Завод завода графита",
+	"description": "ту ду тутуду тутуду",
+	"outputItem": {"item": "ugm", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :1000,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 10.0,
+		"items": {
+			"items": [
+				{ "item": "lead", "amount": 30 },
+{ "item": "copper", "amount": 75 }
+			]
+		}
+	},
+	"requirements": [
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "thorium", "amount": 100 },
+		{ "item": "silicon", "amount": 100 },
+  { "item": "surge-alloy", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"idleSoundVolume": 1.0
+	"research": "graphite-press"
+"health": 60.0,
+}

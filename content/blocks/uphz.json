@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Улучшенный станок для фазовой ткани",
+	"description": "Улучшенный станок для фазовой ткани",
+	"outputItem": {"item": "phase-fabric", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :100,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 50.0,
+		"items": {
+			"items": [
+				{ "item": "sand", "amount": 10 },
+{ "item": "thorium", "amount": 4 }
+			]
+		}
+	},
+	"requirements": [
+  { "item": "uphm", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "uphf"
+"health" : 120.0,
+}

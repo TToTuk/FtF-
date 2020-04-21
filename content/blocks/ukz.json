@@ -1,0 +1,29 @@
+{
+	"type": "GenericSmelter",
+	"name": "Завод завода взрывчатой смеси",
+	"description": "Ну печка и печка",
+	"outputItem": {"item": "metaglass", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+	"craftTime": 60,
+    "itemCapacity" :100,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.6,
+		"items": {
+			"items": [
+				{ "item": "lead", "amount": 1 },
+{ "item": "sand", "amount": 1 }
+			]
+		}
+	},
+	"requirements": [
+  { "item": "ukm", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "ukf"
+"health": 120.0,
+}
