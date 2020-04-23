@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Улучшенный завод пиротита",
 "description": "Ну что тут сказать?"
 	"outputItem": {"item": "pyratite", "amount": 2},
@@ -26,5 +26,6 @@
 	"activeSound": "mmm",
 	"activeSoundVolume": 1.0
 	"research": "upf"
-"health": 120.0,
+        "health": 120.0,
+        "updateEffect": "smeltsmoke",
 }
