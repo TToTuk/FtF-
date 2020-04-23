@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Улучшенный завод взрывчатой смеси",
 "description": "пип",
 	"outputItem": {"item": "blast-compound", "amount": 2},
