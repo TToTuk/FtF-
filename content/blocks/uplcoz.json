@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Улучшенный компрессор пластания",
 	"description": "Хаха нет",
 	"outputItem": {"item": "plastanium", "amount": 2},
@@ -25,5 +25,6 @@
 	"activeSound": "mmm",
 	"activeSoundVolume": 1.0
 	"research": "uplcof"
+
 "health": 120.0,
 }
