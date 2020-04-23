@@ -1,5 +1,5 @@
 {
-	"type": "GenericSmelter",
+	"type": "GenericCrafter",
 	"name": "Улучшенный пресс графита",
 "description" : "дибадибидябидёдё дибадибидё",
 	"outputItem": {"item": "graphite", "amount": 3},
@@ -23,5 +23,6 @@
 	"activeSound": "mmm",
 	"activeSoundVolume": 1.0
 	"research": "ugf"
-"health": 120.0,
+        "health": 120.0,
+        "updateEffect": "smeltsmoke",
 }
