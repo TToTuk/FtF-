@@ -1,6 +1,6 @@
 {
 	"type": "GenericSmelter",
-	"name": "Завод завода взрывчатой смеси",
+	"name": "Улучшенная печь",
 	"description": "Ну печка и печка",
 	"outputItem": {"item": "metaglass", "amount": 2},
 	"size": 2,
