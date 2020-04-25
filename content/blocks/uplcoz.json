@@ -10,7 +10,7 @@
     "itemCapacity" :100,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 30.0,
+		"power": 3.0,
 		"items": {
 			"items": [
 				{ "item": "coal", "amount": 1 },
