@@ -10,7 +10,7 @@
     "itemCapacity" :100,
 	"updateEffect": "smeltsmoke",
 	"consumes": {
-		"power": 50.0,
+		"power": 5.0,
 		"items": {
 			"items": [
 				{ "item": "sand", "amount": 10 },
