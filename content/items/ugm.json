@@ -3,7 +3,7 @@
 	"name": "ugraphitem",
 	"description": "хм",
 	"hardness": 1,
-	"cost": 1,
+	"cost": 1200,
 	"color": "#D3D3D3",
 	"radioactivity": 0.0
 	"explosiveness": 0.0
