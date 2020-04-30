@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "ucultivatorm",
+	"description": "хм",
+	"hardness": 1,
+	"cost": 1500,
+	"color": "#8A2BE2",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}
