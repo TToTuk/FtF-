@@ -1,0 +1,10 @@
+type: Conveyor
+name: Улучшенный конвеер
+description: Как сказал великий великий мудрец "Крутящаюся штука"
+health: 360
+requirements: [
+  uconveyorm/1
+]
+category: distribution
+speed: 0.55
+research: uconf
