@@ -6,5 +6,5 @@ requirements: [
   uconveyorm/1
 ]
 category: distribution
-speed: 0.235
+speed: 0.175
 research: uconf
