@@ -1,0 +1,11 @@
+{
+	"type": "material",
+	"name": "uconveyorm",
+	"description": "хм",
+	"hardness": 1,
+	"cost": 1,
+	"color": "#9370DB",
+	"radioactivity": 0.0
+	"explosiveness": 0.0
+	"flammability": 0.0
+}
