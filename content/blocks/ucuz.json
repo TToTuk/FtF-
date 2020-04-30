@@ -1,0 +1,29 @@
+{
+	"type": "GenericCrafter",
+	"name": "Улучшенный культиватор",
+	"description": "○",
+	"outputItem": {"item": "spore-pod", "amount": 2},
+	"size": 2,
+	"hasPower": true,
+	"hasItems": true,
+"hasLiquids": true,
+	"craftTime": 60,
+"buildTime": 1800,
+"liquidCapacity": 50,
+    "itemCapacity" :100,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 0.166667,
+	"liquid": {
+"liquid": "water",
+"amount": 0.252}
+	},
+	"requirements": [
+  { "item": "ucum", "amount": 1 }
+	],
+	"category": "crafting",
+	"activeSound": "mmm",
+	"activeSoundVolume": 1.0
+	"research": "uaf"
+"health": 120.0,
+}
