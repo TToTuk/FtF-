@@ -1,0 +1,14 @@
+{
+	"name": "Улучшенный маршрутизатор",
+	"description": "□",
+	"type": "router",
+	"health": 500,
+	"size": 1,
+		"speed": 50,
+	"BlockGroup": "transportation",
+	"requirements": [
+		{ "item": "urotherm", "amount": 1}
+	],
+	"category": "distribution",
+	"research": "urotherf"
+}
